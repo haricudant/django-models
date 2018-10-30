@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>new file</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="jumbotron">
+<h1><b>I am an html page</b></h1>
+  {%if User_rec %}
+    <ol>
+        {%for acc in User_rec%}
+         <li>User Info</li>
+        <ul>
+         <li>First Name: {{acc.First_name}}</li>
+         <li>Last Name:{{acc.Last_Name}}</li>
+         <li>Email: {{acc.Email}}</li>
+        </ul>
+        {%endfor%}
+        {%endif%}
+        </ol>
+</div>
+</body>
+</html>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92eee368-b111-46d5-b8b5-c69b8be407fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/4.10/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/4.10/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gradle/gradle-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HARI NARAYANAN Appeal Oct 2018.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAN FEE RECEIPT.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ant/ant-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/formpro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/Templates/Fromname.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/Forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formpro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formpro/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formpro/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/formpro/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formpro/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/maven_demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/.idea/mudhalproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/HARI NARAYANAN Appeal Oct 2018.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/static/css/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mudhalproject/mudhalproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/myproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/Templates/forms_name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/myproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pro_one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_one/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_one/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_one/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_one/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro_one/wsgi.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1579444358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="407" />
+          <entry key="py" value="823" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="407" />
+          <entry key="Python" value="823" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_one/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_one/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+              <folding>
+                <element signature="e#696#736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_one/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_one/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app_one/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1540214757964" expanded="true" signature="56:233" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_one/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app_one/urls.py" />
+        <option value="$PROJECT_DIR$/pro_one/urls.py" />
+        <option value="$PROJECT_DIR$/app_one/admin.py" />
+        <option value="$PROJECT_DIR$/pro_one/settings.py" />
+        <option value="$PROJECT_DIR$/app_one/views.py" />
+        <option value="$PROJECT_DIR$/app_one/models.py" />
+        <option value="$PROJECT_DIR$/Templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pro_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pro_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_one" type="462c0819:PsiDirectoryNode" />
+              <item name="app_one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pro_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_one" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_one" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myproject" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app_one/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_one/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="e#696#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_one/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_one/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_one/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_one/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1540214757964" expanded="true" signature="56:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
